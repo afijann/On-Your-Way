@@ -1,0 +1,8 @@
+{
+  "name": "Untuk Perjalanan yang Belum Selesai",
+  "description": "A personal farewell mixtape website for a male friend heading to Turkey for his studies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

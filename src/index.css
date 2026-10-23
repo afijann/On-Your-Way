@@ -1,0 +1,25 @@
+@import "tailwindcss";
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+    color: #2B211E;
+    background-color: #FAF7F2;
+  }
+}
+
+.font-serif {
+  font-family: 'Cormorant Garamond', Georgia, 'Times New Roman', serif;
+}
+
+.font-sans {
+  font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+}
+
+/* Subtle editorial paper texture & border helpers */
+.paper-pattern {
+  background-color: #FAF7F2;
+  background-image: radial-gradient(#E8DFC8 0.5px, transparent 0.5px);
+  background-size: 24px 24px;
+}
